@@ -1,0 +1,24 @@
+.App{
+  margin: 10px;
+}
+
+.serachDiv{
+
+  border: 1px solid lightgrey;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.serachDiv form {
+
+  display: flex;
+  flex-direction: column;
+}
+.ImageList{
+  columns:250px 5;
+  column-gap: 10px;
+}
+.imageListImg{
+  width: 100px;
+
+}
